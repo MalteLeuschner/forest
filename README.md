@@ -1,2 +1,2 @@
 # forest
-Transfer learning for Decion Trees.
+Transfer learning for Decision Trees.
